@@ -80,4 +80,3 @@ result = searchfiles(para.path, name = para.name, type = para.type)
 for file in result:
     print(file)
 
-# 看了一下逻辑，写的超乎我的想象，比我想的全面多了。
